@@ -1,0 +1,16 @@
+{
+    "name": "hola-proxy Rapid deployment",
+    "description": "Deploy hola-proxy to Heroku.",
+    "keywords": [
+        "hola-proxy"
+    ],
+    "env": {
+        "AppName": {
+            "description": "App Name",
+            "value": "no"
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
